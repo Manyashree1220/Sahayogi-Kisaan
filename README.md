@@ -145,7 +145,7 @@ Your Sahayogi Kisaan platform is now live at http://localhost:3000! 🌱
 🔹 Want to contribute? Open an issue or submit a pull request on GitHub.
 🔹 Need assistance? Contact our support team anytime.
 
-📌 Email: mohitham20@gmail.com 📌 GitHub: https://github.com/Mohith1220/Sahayogi-kisaan
+📌 Email: madeshmanith@gmail.com 📌 GitHub: https://github.com/Manyashree1220/Sahayogi-kisaan
 
 🌾 "Farming Smarter. Growing Together." 🌾
 
